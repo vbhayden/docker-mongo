@@ -1,4 +1,4 @@
-# Learning Locker version 2 in Docker
+## Dockerized MongoDB
 
 Basic Docker setup to keep me from having to install MongoDB directly onto a machine.
 
